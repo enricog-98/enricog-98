@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Enrico Giacalone
-# 🎯 AI/ML Engineer
 
-I'm passionate about building intelligent systems that combine **Machine Learning**, **Computer Vision**, and **Generative AI** to solve real-world problems.
+🎯 AI/ML Engineer passionate about developing intelligent systems that integrate **Machine Learning**, **Computer Vision**, and **Generative AI** to solve real-world problems.
 
 ---
 
@@ -13,7 +12,7 @@ I'm passionate about building intelligent systems that combine **Machine Learnin
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 **Machine Learning / Deep Learning**  
-![Transformers (HuggingFace)](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-009688?style=flat&logo=yolo&logoColor=white)
