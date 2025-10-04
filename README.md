@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Enrico Giacalone
-
-🎯 **AI/ML Engineer | Computer Vision | Generative AI | Data Science**
+# 🎯 AI/ML Engineer
 
 I'm passionate about building intelligent systems that combine **Machine Learning**, **Computer Vision**, and **Generative AI** to solve real-world problems.
 
@@ -14,9 +13,9 @@ I'm passionate about building intelligent systems that combine **Machine Learnin
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 **Machine Learning / Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers (HuggingFace)](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-009688?style=flat&logo=yolo&logoColor=white)
 
 **LLM Frameworks & Agents**  
@@ -40,11 +39,9 @@ I'm passionate about building intelligent systems that combine **Machine Learnin
 ---
 
 ## 🎓 Education
-**MSc – Data Science and Engineering**  
-*Politecnico di Torino (2023–2025)*  
+**MSc – Data Science and Engineering**,*Politecnico di Torino*  
 
-**BSc – Engineering and Management**  
-*Politecnico di Torino (2017–2023)*
+**BSc – Engineering and Management (L-8)**,*Politecnico di Torino*
 
 ---
 
