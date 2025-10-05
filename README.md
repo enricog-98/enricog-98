@@ -1,4 +1,4 @@
-# 🎯 **AI/ML Engineer** passionate about developing intelligent systems that integrate **Machine Learning**, **Computer Vision**, and **Generative AI** to solve real-world problems.
+# 🎯 AI/ML Engineer passionate about developing intelligent systems that integrate Machine Learning, Computer Vision, and Generative AI to solve real-world problems.
 
 ---
 
@@ -24,6 +24,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
+**Explainable AI (XAI)**  
+![SHAP](https://img.shields.io/badge/SHAP-FF1493?style=flat-square&logo=chartdotjs&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-32CD32?style=flat-square&logo=target&logoColor=white)
+
 **Cloud & Tools**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=icloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -39,11 +43,3 @@
 **MSc – Data Science and Engineering**, *Politecnico di Torino*  
 
 **BSc – Engineering and Management (L-8)**, *Politecnico di Torino*
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Enrico_Giacalone-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/enrico-giacalone)
-[![Email](https://img.shields.io/badge/📧_Email-enricog98@hotmail.com-D14836?style=flat-square&logoColor=white)](mailto:enricog98@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-enricog--98-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/enricog-98)
